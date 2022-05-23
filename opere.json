@@ -1,0 +1,72 @@
+{
+    "opere":[
+        {
+            "autor": "Ioan Slavici",
+            "numeTitlu": "Moara cu noroc",
+            "an": "1881",
+            "tema": ["consecintele pe care le are setea de imbogatire asupra destinului individului"],
+            "titlu": ["topos literar care desemneaza un han aflat la rascruce de drumuri in pustietate"],
+            "incipit": ["sfatul pe care soacra lui Ghita incearca sa-l dea tinerei familii, bazat pe experienta ei de viata"],
+            "final": ["aceeasi imagine, dar, de data aceasta hanul este cuprins in flacari, in timp ce batrana isi exprima, ca si la inceput, parerea, punand intamplarile pe seama destinului"],
+            "repere spatio-temporale": ["actiunea se deruleaza pe durata unui an, de la Sfantul Gheorghe pana la Pastele din anul urmator", "Moara cu noroc", "Fundureni", "Ineu", "Oradea Mare"],
+            "structura": ["17 capitole"],
+            "conflict exterior": ["Ghita si Ana", "Ghita si Lica"],
+            "conflict interior": ["lupta din sufletul hangiului, intre dorinta de a ramane un om cinstit si aceea de a se imbogati"],
+            "primul episod": "Lica il viziteaza pe Ghita la moara. In urma vizitei, Ghita isi cumpara doua pistoale, isi ia o sluga, pe Marti, si doi caini, pe care ii invata sa fie rai, schimbandu-si atitudinea fata de sotia sa, Ana",
+            "al doilea episod": "Ghita si Ana au parte de un sfarsit tragic. Ghita, indarji  de gelozie, hotarase sa isi omoare sotia, insa, recunoaste ca el a fost cel care a impins-o pe Ana in bratele lui Lica.",
+            "tehnici narative": ["inlantuire"],
+            "perspectiva narativa": ["obiectiva", "omniscienta"]
+        },
+        {
+            "autor": "Ion Creanga",
+            "numeTitlu": "Povestea lui Harap-Alb",
+            "an": "1877",
+            "tema": ["triumful binelui asupra raului", "tema initierii si maturizarii treptate a eroului"],
+            "titlu": ["specia din care face parte(\"povestea\")", "numele, un oximoron generat de simbolurile cromatice(negru-alb)"],
+            "incipit": ["sintagma \"Amu cica\""],
+            "final": ["eroul invinge moartea si dobandeste identitatea de fiu al craiului"],
+            "repere spatio-temporale": ["vagi, nedeterminate si nedefinite, specifice fabulosului"],
+            "structura": [""],
+            "conflict exterior": ["Harap-Alb si Span, prezentati in antiteza"],
+            "conflict interior": ["framantarile protagonistului de fiecare data cand trebuie sa depaseasca o noua proba"],
+            "primul episod": "scena coborarii in fantana",
+            "al doilea episod": "Spanul ii taie capul lui Harap-Alb crezand ca si-a incalcat juramantul",
+            "tehnici narative": ["inlantuire"],
+            "perspectiva narativa": ["obiectiva", "omniscienta"]
+        },
+        {
+            "autor": "Liviu Rebreanu",
+            "numeTitlu": "Ion",
+            "an": "1920",
+            "tema": ["lupta taranului pentru pamant", "lupta intelectualitatii ardelene pentru libertate si emancipare sociala"],
+            "titlu": ["numele personajului principal, de devine si personaj eponim"],
+            "incipit": ["drumul pana la \"Pripas\"", "secventa horei satului la care participa intreaga colectivitate"],
+            "final": ["intregul sat adunat de data aceasta la sfintirea noii biserici, de la marginea satului, romanul incheindu-se cu aceeasi imagine a drumului catre \"Pripas\""],
+            "repere spatio-temporale": ["actiunea se deruleaza la inceputul secolului al XX-lea in satul Pripas"],
+            "structura": ["Glasul pamantului", "Inceputul", "Zvarcolirea", "Iubirea", "Noaptea", "Rusinea", "Nunta", "Vasile", "Copilul", "Sarutarea", "Streangul", "Blestemul", "George", "Sfarsitul"],
+            "conflict exterior": ["Ion si Ana", "Ion si Grigore", "preot si invatator"],
+            "conflict interior": ["lupta din sufletul protagonistului intre dragostea sincera data de Florica si setea de imbogatire, casatorindu-se cu Ana"],
+            "primul episod": "scena de la hora duminicala, seducerea Anei incepand inca de atunci, eveniment important la care participa intreaga colectivitate",
+            "al doilea episod": "capitolul \"Rusinea\" pune in evidenta caracterul violent al lui Ion, sugerat de atitudinea pe care o are in raport cu suferinta Anei",
+            "tehnici narative": ["inlantuire"],
+            "perspectiva narativa": ["obiectiva", "omniscienta"]
+        },
+        {
+            "autor": "George Calinescu",
+            "numeTitlu": "Enigma Otiliei",
+            "an": "1938",
+            "tema": ["viata burgheziei bucurestene, de la inceputul secolului XX", "averea si iubirea"],
+            "titlu": ["numele unuia dintre personajele principale romanului, Otilia, ce devine personaj eponim"],
+            "incipit": ["descrierea strazii si a casei lui mos Costache la sosirea lui Felix"],
+            "final": ["aceeasi descriere dar casa este parasita si lasata in paragina, aducandu-si aminte de cuvintele batranului \"Aici nu sta nimeni\""],
+            "repere spatio-temporale": ["inceputul secolului XX", "Bucuresti"],
+            "structura": ["20 de capitole"],
+            "conflict exterior": ["Otilia si clanul Tulea", "oamenii apropiati batranului care se lupta sa dobandeasca averea lui Costache Giurgiuveanu"],
+            "conflict interior": ["framantarile din sufletul lui Felix, care este derutat de atitudinea Otiliei fata de el, in aceeasi situatie aflandu-se si Pascalopol"],
+            "primul episod": "Otilia se intalneste cu Felix in parc. Dezamagit ca nu-i raspunsese la scrisoarea in care ii cerea sa nu mai fie vizitata de Pascalopol, Felix fuge de acasa, iar Otilia il cauta si il gaseste in parc.",
+            "al doilea episod": "ultima lor intalnire, inaintea plecarii Otiliei din tara impreuna cu Pascalopol",
+            "tehnici narative": ["inlantuire"],
+            "perspectiva narativa": ["obiectiva", "omniscienta"]
+        }
+    ]
+}

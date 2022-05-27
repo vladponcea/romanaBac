@@ -67,6 +67,57 @@
             "al doilea episod": "ultima lor intalnire, inaintea plecarii Otiliei din tara impreuna cu Pascalopol",
             "tehnici narative": ["inlantuire"],
             "perspectiva narativa": ["obiectiva", "omniscienta"]
+        },
+        {
+            "autor": "Mihail Sadoveanu",
+            "numeTitlu": "Baltagul",
+            "an": "1930",
+            "tema": ["cautarea si aflarea adevarului"],
+            "titlu": ["topor cu doua taisuri, unealta de baza a ciobanului, care in roman devine un obiect simbolic, ambivalent, arma a crimei si instrument al dreptatii"],
+            "incipit": ["legenda despre ocupatiile si modul de viata al pastorilor si al altor neamuri, pe care o spunea Nechifor la \"cumatrii si nunti\""],
+            "final": ["planurile de viitor ale Vitoriei in legatura cu familia ei, iar viata continua"],
+            "repere spatio-temporale": ["inceputul secolului XX", "satul Magura Tarcaului", "zona Dornelor si a Bistritei", "Balta Jijiei", "Suha", "Sabasa", "aproape de Sf. Andrei", "in Postul Mare", "10 martie"],
+            "structura": ["16 capitole grupate in trei parti", "constatarea absentei lui Nechifor si pregatirile de drum", "cautarea sotului disparut respectiv gasirea celui cautat", "inmormantarea lui Nechifor si pedepsirea faptasilor"],
+            "conflict exterior": ["Vitoria si cei doi criminali(Calistrat Bogza si Ilie Cutui)"],
+            "conflict interior": ["framantarile din sufletul protagonistei, care vrea sa afle ce s-a intamplat cu sotul ei"],
+            "primul episod": "scena coborarii in prapastie, Vitoria gasind osemintele sotului cu ajutorul cainelui credincios, Lupu",
+            "al doilea episod": "Vitoria reconstituie crima, povestind cu exactitate cum s-a petrecut, dand dovada de stapanire de sine si de o inteligenta nativa",
+            "tehnici narative": ["inlantuire", "povestire in rama"],
+            "perspectiva narativa": ["obiectiva", "omniscienta"]
+        },  
+        {
+            "autor": "Camil Petrescu",
+            "numeTitlu": "Ultima noapte de dragoste intaia noapte de razboi",
+            "an": "1930",
+            "tema": ["drama intelectualului insetat de absolut", "tema iubirii", "tema razboiului"],
+            "titlu": ["face trimitere la cele doua teme, iubirea si razboiul, respectiv la cele doua parti ale romanului"],
+            "incipit": ["naratorul personaj lupta pe front in Primul Razboi Mondial"],
+            "final": ["protagonistul, trecut prin drama razboiului, revine acasa si ii lasa Elei o avere considerabila"],
+            "repere spatio-temporale": ["inceputul secolului XX", "in primavara lui 1916", "pe Valea Prahovei", "intre Busteni si Predeal", "la Piatra Craiului in munte", "Tohanul Vechi comuna Vulcan", "Cohaln Sibiu", "Sf. Constantin si Elena", "Odobesti", "Campulung", "Bucuresti"],
+            "structura": ["Cartea intai", "Cartea a doua"],
+            "conflict exterior": ["Stefan Gheorghidiu si Ela", "Stefan Gheorghidiu si rudele lui care lupta pentru mostenire", "Gheorghidiu si ofiterii de la popota", "imaginea reala si cea idealizata a razboiului"],
+            "conflict interior": ["protagonistul este obsedat de ideea ca ar putea fi inselat de sotia sa"],
+            "primul episod": "excursia de la Odobesti de Sfintii Constantin si Elena, cand, prin comportarea ei, Ela, trezeste suspiciuni ce declanseaza o adevarata drama in sufletul lui Gheorghidiu, acesta fiind de acum incolo macinat de gelozie cumplita",
+            "al doilea episod": "intalnirea de la Campulung, cand Gheorghidiu primeste o permisie pentru a se intalni cu sotia sa, acesta crezand ca sotia a venit la Campulung pentru a se impaca, dar Ela ii cere sa-i treaca o suma de bani pe numele ei pentru a-si asigura viitorul in cazul in care s-ar fi intamplat ceva rau cu el pe front",
+            "tehnici narative": ["inlantuire"],
+            "perspectiva narativa": ["subiectiva"]
+        },
+        {
+            "autor": "I.L. Caragiale",
+            "numeTitlu": "O scrisoare pierduta",
+            "an": "1884",
+            "tema": ["lupta pentru putere fiind prezentata viata social-politica dintr-un oras de provincie in preajma alegerilor pentru Camera Deputatilor din 1883, in lupta electorala implicandu-se atat fortele puterii cat si cele ale opozitiei"],
+            "titlu": ["obiect de santaj politic, scrisoarea amoroasa pierduta de Zoe Trahanache care ii fusese trimisa de Stefan Tipatescu, prefectul judetului"],
+            "incipit": ["corespunde discutiei dintre conflictul ce va urma pentru candidatura"],
+            "final": ["destramarea conflictelor de orice fel"],
+            "repere spatio-temporale": ["in capitala unui judet de munte, in zilele noastre", "Campania electorala din anul 1883"],
+            "structura": ["4 acte", "9-14-7-14 scene"],
+            "conflict exterior": ["lupta pentru Camera Deputatilor, dintre Catavencu si cei de la putere"],
+            "conflict interior": ["lupta pentru Camera Deputatilor, dintre Catavencu si cei de la putere"],
+            "primul episod": "scena rostirii discursului electoral Nae Catavencu este ipocrit, teatral, sentimental, plin de sine si dovedeste o ambitie iesita din comun, adresandu-se auditorului, pe care incearca sa-l impresioneze prefacandu-se ca plange rostind intr-un limbaj patrotard vorbe mari despre \"tarisoara mea\", \"Romania mea\", \"fericirea ei\", \"progresul ei\"",
+            "al doilea episod": "scena din final cand Catavencu ramas fara arma santajului, este nevoit sa-si schimbe total atitudinea initiala, devendind dintr-un invingator, in invins",
+            "tehnici narative": [""],
+            "perspectiva narativa": [""]
         }
     ]
 }

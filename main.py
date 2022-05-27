@@ -10,7 +10,8 @@ data = json.load(file)
 
 print("1. Ani\n2. Tema")
 test = int(input("\nTipul de test: "))
-nr = int(input("Numarul de teste: "))
+nrOpere = len(data["opere"])
+nr = int(input("Numarul de teste(maxim " + str(nrOpere) + " teste): "))
 
 if test == 1:
     corecte = 0
@@ -59,7 +60,7 @@ elif test == 2:
         print("Raspunusl tau: " + userTema)
         nr -= 1
 
-        tip = input("CORECT(1), GRESIT(2): ")
+        tip = int(input("CORECT(1), GRESIT(2): "))
         if tip == 1:
             corecte += 1
         else:

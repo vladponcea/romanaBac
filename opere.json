@@ -118,6 +118,30 @@
             "al doilea episod": "scena din final cand Catavencu ramas fara arma santajului, este nevoit sa-si schimbe total atitudinea initiala, devendind dintr-un invingator, in invins",
             "tehnici narative": [""],
             "perspectiva narativa": [""]
+        },
+        {
+            "autor": "George Bacovia",
+            "numeTitlu": "Plumb",
+            "an": "1916",
+            "tema": ["simbolista", "izolarea fiintei umane intr-o lume terifianta", "conditia omului de geniu neinteles de societate"]
+        },
+        {
+            "autor": "Mihai Eminescu",
+            "numeTitlu": "Luceafărul",
+            "an": "1883",
+            "tema": ["romantica, constituita de iubirea imposibila", "tema naturii, timpului, spatiului"]
+        }, 
+        {
+            "autor": "Lucian Blaga",
+            "numeTitlu": "Eu nu strivesc corola de minuni a lumii",
+            "an": "1919",
+            "tema": ["modernista, constituita de conceptia poeziei si despre rolul poetului", "cunoasterea paradiziaca si luciferica"]
+        },   
+        {
+            "autor": "Tudor Arghezi",
+            "numeTitlu": "Testament",
+            "an": "1927",
+            "tema": ["mdoernista, constituita de relatia dintre autor si opera sa, dintre acesta si urmasii sai"]
         }
     ]
 }

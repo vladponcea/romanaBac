@@ -8,6 +8,34 @@ import culori
 file = open('opere.json')
 data = json.load(file)
 
+def autori(nrTeste):
+    corecte = 0
+    gresite = 0
+    opereVerificate = []
+    while nrTeste:
+        opera = random.choice(data["opere"])
+        while opera in opereVerificate:
+            opera = random.choice(data["opere"])
+        opereVerificate.append(opera)
+        
+        autor = str(opera["autor"])
+        culori.puts("\n" + str(opera["numeTitlu"]), culori.colors.blue)
+        culori.puts("\nAutorul este: ", culori.colors.white)
+        userAutor = str(input())
+        
+        if autor.upper() == userAutor.upper():
+            corecte += 1
+            culori.puts("\nRASPUNS CORECT", culori.colors.green) 
+        else:
+            gresite += 1
+            culori.puts("\nRASPUNS GRESIT", culori.colors.red)
+        
+        print("\nRaspunsul corect: " + str(autor))
+        print("Raspunusl tau: " + str(userAutor))
+        nrTeste -= 1
+    
+    return corecte, gresite
+
 def ani(nrTeste):
     corecte = 0
     gresite = 0
@@ -28,7 +56,7 @@ def ani(nrTeste):
             culori.puts("\nRASPUNS CORECT", culori.colors.green) 
         else:
             gresite += 1
-            culori.puts("\nRASPUNS GRESIT. MAI INVATA...", culori.colors.red)
+            culori.puts("\nRASPUNS GRESIT", culori.colors.red)
         
         print("\nRaspunsul corect: " + str(an))
         print("Raspunusl tau: " + str(userAn))
@@ -73,7 +101,7 @@ if __name__ == "__main__":
     totalGresite = 0
 
     while not iesire:
-        print("1. Ani\n2. Tema")
+        print("1. Ani\n2. Tema\n3. Autori")
         test = int(input("\nTipul de test: "))
         nrOpere = len(data["opere"])
         nr = int(input("Numarul de teste(maxim " + str(nrOpere) + " teste): "))
@@ -82,7 +110,11 @@ if __name__ == "__main__":
             totalCorecte += corecteTest
             totalGresite += gresiteTest
         elif test == 2:
-            corecteTest, gresiteTest = ani(nr)
+            corecteTest, gresiteTest = tema(nr)
+            totalCorecte += corecteTest
+            totalGresite += gresiteTest
+        elif test == 3:
+            corecteTest, gresiteTest = autori(nr)
             totalCorecte += corecteTest
             totalGresite += gresiteTest
 
